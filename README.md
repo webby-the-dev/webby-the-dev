@@ -1,5 +1,5 @@
 ### Hello 😃
-This is my web3 github account. I have only NFT/web3 projects here. 
+This is my web3 github account. I have only NFT/web3 projects here.  
 I am looking for new offers right now.
 
 Tech stack:

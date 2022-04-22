@@ -1,6 +1,6 @@
 ### Hello 😃
 This is my web3 github account. I have only NFT/web3 projects here.  
-I am looking for new offers right now.
+**I am looking for new offers right now.**
 
 Tech stack:
 - javascript (React/React-native)
@@ -15,3 +15,4 @@ Tech stack:
 Contact me on:
 - [Twitter](https://twitter.com/nft_webby)
 - discord - Webby#6345
+

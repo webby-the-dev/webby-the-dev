@@ -39,9 +39,6 @@ Contact me on:
 						<a href="https://digit-recognizer-factoid.herokuapp.com/" target="_blank">
               <img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
 						</a>	
-            <a href="https://jihoyoo.hashnode.dev/smooth-brain-digit-recognizer-factoid-machine-learning-from-scratch" target="_blank">
-              <img src="https://img.shields.io/badge/Blog-lightgrey?style=for-the-badge&color=228B22"/>
-						</a>
 					</p>
 					<p><strong>Electron, React, Typescript</strong></p>
           				<p>

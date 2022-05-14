@@ -33,7 +33,7 @@ Contact me on:
 					<br>
 					<br>
 					<p>
-						<a href="https://github.com/jhruvsphysics/digit-recognizer-factoid" target="_blank">
+						<a href="https://github.com/WebbyNFT/nft-minting-bot-app" target="_blank">
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 						</a>  
 						<a href="https://digit-recognizer-factoid.herokuapp.com/" target="_blank">

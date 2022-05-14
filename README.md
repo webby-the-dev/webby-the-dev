@@ -17,3 +17,6 @@ Contact me on:
 - [Twitter](https://twitter.com/nft_webby)
 - discord - Webby#6345
 
+<!-- PROJECTS -->
+
+<h2 align="center">Projects</h2>

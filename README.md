@@ -25,7 +25,7 @@ Contact me on:
 	<table>
 		<tr>
 			<td width="50%">
-				<h3 align="center">Solidity NFT mart-contracts Generator</h3>
+				<h3 align="center">Solidity NFT smart-contracts Generator</h3>
 				<div align="center">  
 					<a href='https://github.com/WebbyNFT/solidity-contracts-generator' target="_blank">
 						<img src="https://camo.githubusercontent.com/df55ce7c6d30fcba205970403f6d3fce3802c8f9656c6510d2d53406fe94c8a4/68747470733a2f2f692e696d6775722e636f6d2f334b455962624b2e706e67" alt="solidity-nft-contracts-generator" height="100%" />

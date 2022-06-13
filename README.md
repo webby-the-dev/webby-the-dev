@@ -3,7 +3,7 @@
 ### Hello 😃
 I am Webby. This is my newly created web3 github account. I have only NFT/web3 projects here.  
 
-🖥️ I work as a dev in 🤖 [Glitch](https://twitter.com/glitchnft_) project.
+I work as a dev in 🤖 [Glitch](https://twitter.com/glitchnft_) project.
 
 Tech stack:
 - javascript (React/React-native)

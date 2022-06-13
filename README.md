@@ -1,9 +1,8 @@
 ![](https://komarev.com/ghpvc/?username=WebbyNFT)
 
 ### Hello 😃
-This is my newly created web3 github account. I have only NFT/web3 projects here.  
-
-- [Glitch](https://twitter.com/glitchnft_) Dev
+I am Webby. This is my newly created web3 github account. I have only NFT/web3 projects here.  
+I work as a dev in [Glitch](https://twitter.com/glitchnft_) project.
 
 Tech stack:
 - javascript (React/React-native)

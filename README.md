@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=WebbyNFT)
+
 ### Hello 😃
 This is my newly created web3 github account. I have only NFT/web3 projects here.  
   

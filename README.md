@@ -17,7 +17,7 @@ Tech stack:
 
 Contact me on:
 - [Twitter](https://twitter.com/nft_webby)
-- discord - Webby#6345
+- discord - Webby#6666
 
 <!-- PROJECTS -->
 

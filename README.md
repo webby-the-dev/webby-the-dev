@@ -4,7 +4,7 @@
 I am Webby. Owner and full-stack dev in 🤖 [Glitch](https://twitter.com/glitchnft_) project. I have only NFT/web3 projects here.  
 
 
-## I stopped working on ALL of my projects after starting to work on the [Glitch](https://twitter.com/glitchnft_) project. It contains all features that I made previously. Join our Discord and get FREE Beta key > [Discord](https://discord.gg/UuPTXJ7s).
+## I stopped working on ALL of my projects after starting to work on the [Glitch](https://twitter.com/glitchnft_) project. It contains all features that I made previously. Join our [Discord](https://discord.gg/UuPTXJ7s) and get FREE Beta key.
 
 
 Tech stack:

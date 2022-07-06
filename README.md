@@ -3,7 +3,6 @@
 ### Hello 😃
 I am Webby. This is my newly created web3 github account. I have only NFT/web3 projects here.  
 ❗❗
-=================================================================================
 I stopped working on ALL of my projects after starting to work on the [Glitch](https://twitter.com/glitchnft_) project.
 
 It contains all features that I made previously. Join our Discord and get FREE Beta key > [Discord](https://discord.gg/UuPTXJ7s).

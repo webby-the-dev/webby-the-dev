@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=WebbyNFT)
 
 ## ❗IMPORTANT INFORMATION ❗
-**I stopped ALL of my projects after starting to work on the [Glitch](https://twitter.com/glitchnft_) project. It contains all features that I made previously. Join our [Discord](https://discord.gg/UuPTXJ7s) and get FREE Beta key.**
+**I stopped ALL of my projects after starting to work on the [Glitch](https://twitter.com/glitchnft_). It contains all features that I made previously. Join our [Discord](https://discord.gg/UuPTXJ7s) and get FREE Beta key.**
 
 ##
 ### Hello 😃

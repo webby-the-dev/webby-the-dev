@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=WebbyNFT)
 
-## ❗IMPORTANT INFORMATION ❗
+## ❗IMPORTANT❗
 **I stopped ALL of my projects after starting to work on the [Glitch](https://twitter.com/glitchnft_). It contains all features that I made previously.**
 
 ##

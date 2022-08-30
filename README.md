@@ -4,8 +4,7 @@
 **I stopped ALL of my projects after starting to work on the [Glitch](https://twitter.com/glitchnft_). It contains all features that I made previously.**
 
 ##
-### Hello 😃
-I am Webby. Co-Owner and full-stack dev in 🤖 [Glitch](https://twitter.com/glitchnft_) project. I have only NFT/web3 projects here.  
+Co-Owner and full-stack dev in 🤖 [Glitch](https://twitter.com/glitchnft_) project. I have only NFT/web3 projects here.  
 
 Tech stack:
 - javascript (React/React-native)

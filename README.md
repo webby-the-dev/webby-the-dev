@@ -1,10 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=WebbyNFT)
 
-## ❗IMPORTANT❗
-**I stopped ALL of my projects after starting to work on the [Glitch](https://twitter.com/glitchnft_). It contains all features that I made previously.**
-
 ##
-Co-Owner and Full-Stack dev in 🤖 [Glitch](https://twitter.com/glitchnft_) project. I have only NFT/web3 projects here.  
+I have only NFT/web3 projects here.  
 
 Tech stack:
 - javascript (React/React-native)

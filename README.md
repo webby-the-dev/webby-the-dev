@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=WebbyNFT)
 
-Former https://twitter.com/glitchnft_ founder.
+Former @glitchnft_ founder.
 
 ##
 I am actively looking for new opportunities.

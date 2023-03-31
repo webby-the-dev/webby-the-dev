@@ -4,7 +4,7 @@
 
 I am actively looking for new opportunities.
 
-Former @glitchnft_ founder.
+Former dev of @glitchnft_.
 
 
 ##

@@ -6,9 +6,14 @@ I am actively looking for new opportunities.
 
 Former dev of @glitchnft_
 
-
 ##
-I have only NFT/web3 projects here.  
+Experience:
+- creating NFT Minting Bots (terminal and UI versions)
+- preparing Dapps (minting websites for NFT's, integrating with contracts etc.)
+- DeFi Dapps
+- creating DEX/CEX Arbitrage Bots
+- preparing contracts for minting in solidity
+- creating Discord Bots
 
 Tech stack:
 - javascript (React/React-native)

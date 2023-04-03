@@ -4,7 +4,7 @@
 
 ❗Actively looking for new opportunities❗
 
-Former dev of @glitchnft_
+🤖Former dev of [@glitchnft_](https://twitter.com/glitchnft_)
 
 ##
 Experience:

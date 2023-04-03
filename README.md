@@ -2,7 +2,7 @@
 
 
 
-I am actively looking for new opportunities.
+❗Actively looking for new opportunities❗
 
 Former dev of @glitchnft_
 

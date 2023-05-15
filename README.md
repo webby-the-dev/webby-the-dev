@@ -1,15 +1,14 @@
 ![](https://komarev.com/ghpvc/?username=WebbyNFT)
 
-
-🟢 Founder and dev of [@MercurialApp](https://twitter.com/MercurialApp)
-
-🤖 Former dev of [@glitchnft_](https://twitter.com/glitchnft_)
-
-##
+# Hi! 👋
 
 I'm Webby, front-end and web3 developer with about 10 years of experience in the software engineering field, 2 of which are in the web3 industry. Currently, I'm on the lookout for new projects and opportunities.
 
 ## 🛠️ Experience
+
+🟢 Founder and dev of [@MercurialApp](https://twitter.com/MercurialApp)
+
+🤖 Former dev of [@glitchnft_](https://twitter.com/glitchnft_)
 
 I have a diverse range of experience in different areas of development, including:
 

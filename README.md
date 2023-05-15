@@ -1,10 +1,9 @@
 ![](https://komarev.com/ghpvc/?username=WebbyNFT)
 
 
+🟢 Founder and dev of [@MercurialApp](https://twitter.com/MercurialApp)
 
-❗Actively looking for new opportunities❗
-
-🤖Former dev of [@glitchnft_](https://twitter.com/glitchnft_)
+🤖 Former dev of [@glitchnft_](https://twitter.com/glitchnft_)
 
 ##
 Experience:
@@ -26,7 +25,7 @@ Tech stack:
 - automation tools
 
 Contact me on:
-- [Twitter](https://twitter.com/nft_webby)
+- [Twitter](https://twitter.com/webby_the_dev)
 - Discord - Webby#6666
 
 <!-- PROJECTS -->

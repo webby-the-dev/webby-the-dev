@@ -44,8 +44,8 @@ I'm currently seeking new projects and opportunities, so if you're in need of a 
 
 ## 📬 Get in Touch
 
-- GitHub: [WebbyNFT](https://github.com/WebbyNFT)
-- Discord: `Webby#6666`
+- 👤 Discord: `Webby#6666`
+- 📧 [webbynft@gmail.com](mailto:webbynft@gmail.com)
 
 <!-- PROJECTS -->
 

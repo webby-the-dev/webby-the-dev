@@ -7,6 +7,7 @@ I'm Webby, front-end and web3 developer with about 10 years of experience in the
 ## 🛠️ Experience
 
 🟢 Founder and dev of [@MercurialApp](https://twitter.com/MercurialApp)
+🟩 Dev of [@LightSpeedApp](https://twitter.com/LightSpeedApp)
 
 🤖 Former dev of [@glitchnft_](https://twitter.com/glitchnft_)
 

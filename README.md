@@ -12,6 +12,8 @@ I'm Webby, front-end and web3 developer with about 10 years of experience in the
 
 🟩 Dev of [@LightSpeedApp](https://twitter.com/LightSpeedApp)
 
+🔵 Former dev of [@Platinum_AIO](https://twitter.com/Platinum_AIO)
+
 🤖 Former dev of [@glitchnft_](https://twitter.com/glitchnft_)
 
 I have a diverse range of experience in different areas of development, including:

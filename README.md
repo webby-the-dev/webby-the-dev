@@ -10,9 +10,9 @@ I'm Webby ([🔵@webby-the-dev](https://twitter.com/webby_the_dev)), front-end a
 
 🟢 Founder and dev of [@MercurialApp](https://twitter.com/MercurialApp)
 
-🟩 Dev of [@hiddensociety](https://twitter.com/hiddensociety)
+🟩 Owner of [@LightSpeedApp](https://twitter.com/LightSpeedApp)
 
-🟩 Dev of [@LightSpeedApp](https://twitter.com/LightSpeedApp)
+🟩 Dev of [@hiddensociety](https://twitter.com/hiddensociety)
 
 🔵 Former dev of [@Platinum_AIO](https://twitter.com/Platinum_AIO)
 

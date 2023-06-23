@@ -8,15 +8,15 @@ I'm Webby ([🔵@webby-the-dev](https://twitter.com/webby_the_dev)), front-end a
 
 ## 🛠️ Experience
 
-🟢 Founder and dev of [@MercurialApp](https://twitter.com/MercurialApp)
+🟢 Founder [@MercurialApp](https://twitter.com/MercurialApp)
 
-🟩 Owner of [@LightSpeedApp](https://twitter.com/LightSpeedApp)
+🟩 Owner [@LightSpeedApp](https://twitter.com/LightSpeedApp)
 
-🟩 Dev of [@hiddensociety](https://twitter.com/hiddensociety)
+🟩 Dev [@hiddensociety](https://twitter.com/hiddensociety)
 
-🔵 Former dev of [@Platinum_AIO](https://twitter.com/Platinum_AIO)
+🔵 Former dev [@Platinum_AIO](https://twitter.com/Platinum_AIO)
 
-🤖 Former dev of [@glitchnft_](https://twitter.com/glitchnft_)
+🤖 Former dev [@glitchnft_](https://twitter.com/glitchnft_)
 
 I have a diverse range of experience in different areas of development, including:
 

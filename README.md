@@ -2,7 +2,7 @@
 
 # Hi! 👋
 
-I'm Webby ([@webby-the-dev](https://twitter.com/webby_the_dev)), front-end and web3 developer with about 10 years of experience in the software engineering field, 2 of which are in the web3 industry. Currently, I'm on the lookout for new projects and opportunities.
+I'm Webby ([@webby-the-dev](https://twitter.com/webby_the_dev)), full-stack and web3 developer with about 10 years of experience in the software engineering field, 2 of which are in the web3 industry. Currently, I'm on the lookout for new projects and opportunities.
 
 ❗️ Most of my recent projects are under non-disclosure agreements or housed in private repositories, limiting what I can publicly share. However, I can provide some specific sections of the code I've authored.
 
@@ -38,6 +38,8 @@ Here are the technologies I'm most proficient in:
 - JavaScript (React/React-native)
 - TypeScript
 - Web3.js / Ethers.js
+- Solidity
+- Rust
 - Electron
 - Next.js
 - Redux
